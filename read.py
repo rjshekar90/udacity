@@ -8,7 +8,7 @@ def read_text():
 
 
 def check_pro(text_check):
-    conn = urllib.urlopen("http://www.wdylike.appspot.com/?q=nigger")
+    conn = urllib.urlopen("http://www.wdylike.appspot.com/?q=ger")
 
 
 read_text()
